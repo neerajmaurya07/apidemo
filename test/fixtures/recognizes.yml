@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  secret_key: MyString
+  tasks: MyString
+  country: MyString
+  state: MyString
+  return_image: 1
+  : false
+  image: MyString
+
+two:
+  secret_key: MyString
+  tasks: MyString
+  country: MyString
+  state: MyString
+  return_image: 1
+  : false
+  image: MyString
